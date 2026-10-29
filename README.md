@@ -1,0 +1,2 @@
+# earnsstoreV3FE
+frontend
